@@ -3,9 +3,20 @@ A Simple youtube downloader
 ### How To Use
 __1. Install these Libraries:__
 <br>
-- pip install customtkinter
-- pip install pytube
-- pip install tk
+
+```pip install customtkinter
+```
+
+<br>
+
+```pip install pytube
+```
+
+<br>
+
+```pip install tk
+```
+
 <br>
 
 __2. Download the file from__ [Releases](https://github.com/Playgmes11/youtube_downloader/releases/)
