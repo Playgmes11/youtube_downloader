@@ -4,17 +4,20 @@ A Simple youtube downloader
 __1. Install these Libraries:__
 <br>
 
-```pip install customtkinter
+```
+pip install customtkinter
 ```
 
 <br>
 
-```pip install pytube
+```
+pip install pytube
 ```
 
 <br>
 
-```pip install tk
+```
+pip install tk
 ```
 
 <br>
