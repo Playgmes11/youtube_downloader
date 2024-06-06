@@ -29,4 +29,4 @@ __3. Ender the video you want to download__
 
 <br>
 
-__4. Click Download and the video will download in the where the Script is__
+__4. Click Download and the video will download in the folder where the Script is__
